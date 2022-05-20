@@ -1,0 +1,23 @@
+{
+  "name": "first-workflow",
+  "version": "1.0.0",
+  "description": "cli",
+  "main": "index.js",
+  "bin": {
+    "first-workflow": "greeting.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgedancing/hexlet-my-first-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgedancing/hexlet-my-first-workflow/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/durgedancing/hexlet-my-first-workflow#readme"
+}
